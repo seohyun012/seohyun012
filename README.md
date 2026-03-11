@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 안녕하세요, 최서현입니다!
 
-<!--
-**seohyun012/seohyun012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Education
+* 삼육대학교 컴퓨터공학부 소프트웨어전공 (2025~)
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Projects
+* **과잉제로** (2025.11 연합해커톤) - 🥇 **대상 수상**
+* **VolunMe** (2025.10 SW경진대회)
+* **소문났네** (2025.08 중앙해커톤)
+
+### ✍️ Contact
+* Email: stardreamok22@gmail.com
