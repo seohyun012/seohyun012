@@ -1,4 +1,4 @@
-## 👋 안녕하세요, 최서현입니다! Hi, I'm Seohyun Choi
+## 👋 안녕하세요, 최서현입니다!    Hi, I'm Seohyun Choi!
 
 ### 🎓 Education
 * 삼육대학교 컴퓨터공학부 소프트웨어전공 (2025 ~ )
