@@ -11,5 +11,8 @@
 * **VolunMe** (2025.10 SW경진대회)
 * **소문났네** (2025.08 중앙해커톤)
 
+### 💼 Experience
+* **멋쟁이사자처럼** 13기 수료
+
 ### ✍️ Contact
 * **Email** : stardreamok22@gmail.com
