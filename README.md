@@ -23,5 +23,5 @@
 ---
 
 ### ✍️ Contact
-* **Email** : stardreamok22@gmail.com
-* **instagram** : seohyunnnnabuck
+* **Email**: [stardreamok22@gmail.com](mailto:stardreamok22@gmail.com)
+* **Instagram**: [@seohyunnnnabuck](https://www.instagram.com/seohyunnnnabuck)
